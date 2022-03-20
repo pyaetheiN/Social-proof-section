@@ -1,0 +1,13 @@
+// large screens
+@mixin lg {
+    @media screen and (min-width: #{$screen-lg-min} ) {
+        @content;
+    }
+}
+
+// extra large screens
+@mixin xl {
+    @media screen and (min-width: #{ $screen-xl-min } ) {
+        @content;
+    }
+}

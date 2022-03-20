@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@400;700;800&display=swap');
+// font weights 400,500,700
+
+// colors
+$verydarkmagenta: hsl(300, 43%, 22%);
+$softpink: hsl(333, 80%, 67%);
+$darkgrayishmagenta: hsl(303, 10%, 53%);
+$lightgrayishmagenta: hsl(300, 24%, 96%);
+$white: hsl(0, 0%, 100%); 
+
+// laptops and small desktops
+$screen-lg-min: 992px;
+
+// large desktops
+$screen-xl-min: 1200px;
